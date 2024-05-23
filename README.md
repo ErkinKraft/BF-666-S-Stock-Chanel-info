@@ -21,3 +21,8 @@
 | 15          | 460.325      | 460.325      | None       | None       | High     | Wide | No       | No         | No           |
 | 16          | 469.950      | 469.950      | 203.5      | 203.5      | High     | Wide | No       | No         | No           |
 
+
+
+
+Comment:
+If you want to contact Baofeng BF 666-S using UV 5R or UV 82 out of the box, then select the third channel and enter 462.325 and everything will work, but we advise you to clarify the allowed frequencies and communicate on them, otherwise you may violate the law
